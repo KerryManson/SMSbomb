@@ -18,10 +18,10 @@
 
 1. 进入[release](https://github.com/52marvelous/SMSbomb/releases)，下载最新的发行版！
 2. 把可执行文件放在任意目录
-   ![](C:/Users/zlp/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/SMSBoom/rawI5xCA3RGmMiy-165456257554210.png)
+   ![](https://s2.loli.net/2022/05/19/rawI5xCA3RGmMiy.png)
 3. 进入CMD命令行
-   ![](C:/Users/zlp/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/SMSBoom/JZTm1ekX8n3wzqA-165456257554212.png)
-   ![](C:/Users/zlp/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/SMSBoom/UL1OQuVl8S2tF6e.png)
+   ![](https://s2.loli.net/2022/05/19/JZTm1ekX8n3wzqA.png)
+   ![](https://s2.loli.net/2022/05/19/UL1OQuVl8S2tF6e.png)
 4. 输入命令开始玩耍即可！
 
 #### 命令示例
