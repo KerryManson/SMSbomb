@@ -195,7 +195,7 @@ Options:
 
 ## 讨论
 
-TG群：https://t.me/+QVyYZYL0hVhhOTI9
+TG群：https://t.me/+nHk5VgydCHM1OGE1
 
 QQ群：765307424
 
