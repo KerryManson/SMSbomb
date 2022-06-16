@@ -133,6 +133,7 @@ def update():
     """从 github 获取最新接口"""
     GETAPI_json_url = f"http://git.what996.com/52marvelous/SMSbomb/blob/main/GETAPI.json"
     API_json_url = f"http://git.what996.com/52marvelous/SMSbomb/blob/main/api.json"
+    # 更新镜像地址
     logger.info(f"正在从GitHub拉取最新接口!")
     try:
         with httpx.Client(verify=False, timeout=10) as client:
