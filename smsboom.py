@@ -131,8 +131,8 @@ def oneRun(phone):
 @click.command()
 def update():
     """从 github 获取最新接口"""
-    GETAPI_json_url = f"https://hk1.monika.love/AdminWhaleFall/SMSBoom/master/GETAPI.json"
-    API_json_url = f"https://hk1.monika.love/AdminWhaleFall/SMSBoom/master/api.json"
+    GETAPI_json_url = f"http://git.what996.com/52marvelous/SMSbomb/blob/main/GETAPI.json"
+    API_json_url = f"http://git.what996.com/52marvelous/SMSbomb/blob/main/api.json"
     logger.info(f"正在从GitHub拉取最新接口!")
     try:
         with httpx.Client(verify=False, timeout=10) as client:
